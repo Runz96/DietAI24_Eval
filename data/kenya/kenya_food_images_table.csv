@@ -1,0 +1,175 @@
+Page_Number,Number_of_Food,English,Kiswahili,Food_Category,A_Small_g,B_Medium_g,C_Large_g
+11,1,Maize Ugali,Ugali,Cereals and Cereal Products,190,380,570
+11,2,Mixed Flour Ugali/Millet/Sorghum,Mchele,Cereals and Cereal Products,134,240,370
+11,3,Maize Porridge,Chapoti,Cereals and Cereal Products,,,347
+12,4,Mixed porridge/Millet Porridge/Sorghum Porridge,Uji wa Wimbi/Mtama/Muhogo,Cereals and Cereal Products,330,328,347
+12,5,Boiled White Rice,Mchele mweupe wa kuchenshwa,Cereals and Cereal Products,102,204,306
+12,6,Spaghetti,Spogeti,Cereals and Cereal Products,104,209,313
+13,7,Macaroni,Makoronyo,Cereals and Cereal Products,103,164,232
+13,8,Fusilli,Makoronyo,Cereals and Cereal Products,131,232,354
+13,9,Noodles,Tambi,Cereals and Cereal Products,,,219
+14,10,Sesame Buns,Mkate wa Ufuta,Cereals and Cereal Products,66,,
+15,11,Weetabix,Mnafako,Cereals and Cereal Products,20,40,60
+15,12,Corn Flakes,Vitafuno vya Mahindi,Cereals and Cereal Products,21,42,63
+15,13,Muesli,Vitafuno Nafaka,Cereals and Cereal Products,25,50,75
+16,14,Whole Grain Cereal Biscuits,Biskuti Nafako,Cereals and Cereal Products,36,53,71
+16,15,Oat Porridge,Uji wa Shayiri,Cereals and Cereal Products,128,270,406
+18,16,White Bread/Sweet Yellow Bread - 600g Slice,Boflo Leupe,Cereals and Cereal Products,27,54,81
+18,17,White Bread/ Sweet Yellow Bread - 400g Slice,Boflo Leupe,Cereals and Cereal Products,26,52,104
+18,18,White Bread/Sweet Yellow Bread - 800g Slice,Boflo Leupe,Cereals and Cereal Products,37,74,111
+19,19,Brown Bread - 400g,Boflo Hudhurungi,Cereals and Cereal Products,26,52,104
+19,20,Barrel Bread,Boflo Mviringo,Cereals and Cereal Products,50,75,100
+19,21,Whole Grain Bread - 600g Slice,Boflo Nafako,Cereals and Cereal Products,33,66,99
+20,22,Scones,Skonzi,Cereals and Cereal Products,32,72,103
+20,23,Small Bites(1pkt),Moandazi,Cereals and Cereal Products,,,199
+21,24,Round Mandazi/Kaimati,Kaimati,Cereals and Cereal Products,60,120,180
+21,25,Squared Mandazi - Supermarket,Moandazi,Cereals and Cereal Products,62,124,186
+21,26,Triangular Mandazi - Supermarket,Moandazi,Cereals and Cereal Products,94,,
+22,27,Mandazi - Street/locally Made,Moandazi,Cereals and Cereal Products,144,,
+22,28,KDF,Hofukeki/Koako,Cereals and Cereal Products,103,,
+22,29,Tea Scone,Keki Ngumu,Cereals and Cereal Products,141,,
+23,30,Round Doughnut,Donasi,Cereals and Cereal Products,126,,
+23,31,Round Doughnut With Chocolate Topping,Donasi,Cereals and Cereal Products,151,,
+23,32,Elongated Doughnut With Cream Filling,Donasi,Cereals and Cereal Products,140,,
+24,33,Pancake - Homemade,Kimanda,Cereals and Cereal Products,71,,
+24,34,Pancake - Supermarket,Kimanda,Cereals and Cereal Products,175,,
+24,35,White Chapoti - Homemade,Chapoti ya Kawaida,Cereals and Cereal Products,107,,
+25,36,White Chapoti - Supermarket,Chapoti ya Kawaida,Cereals and Cereal Products,139,,
+25,37,Brown Chapoti - Homemade,Chapoti Hudhurungi,Cereals and Cereal Products,113,,
+25,38,Brown Chapoti - Supermarket,Chapoti Hudhurungi,Cereals and Cereal Products,133,,
+26,39,Pumpkin Chapoti,Chapoti la Majungu,Cereals and Cereal Products,149,,
+26,40,Roasted Maize Without Cob,Mahindi ya Kuchoma bila kiguguta,Cereals and Cereal Products,148(Three Quarter),,
+26,41,Boiled Maize,Mahindi ya Kuchenshwa,Cereals and Cereal Products,,246(small),303(Big)
+28,42,Boiled Butter Nut Squash,Boga la Kuchenshwa,Starchy Roots Bananas and Tubers,205,243,
+28,43,Boiled Pumpkin,Majungu ya Kuchenshwa,Starchy Roots Bananas and Tubers,99,204,
+28,44,Boiled Plantain,Ndizi za Kuchenshwa,Starchy Roots Bananas and Tubers,53,97,
+29,45,Boiled Irish Potato,Viazi vya Kuchenshwa,Starchy Roots Bananas and Tubers,60,102,249
+29,46,Stewed Plantain/Green Bananas,Matoke,Starchy Roots Bananas and Tubers,211,359,615
+29,47,Boiled Sweet Potato,Viazi Vitamu vya Kuchenshwa,Starchy Roots Bananas and Tubers,214,239,454
+30,48,Boiled Cassava,Mhogo wa Kuchenshwa,Starchy Roots Bananas and Tubers,67,118,261
+30,49,Boiled Arrowroot,Wango wa Kuchenshwa,Starchy Roots Bananas and Tubers,232,263,267
+32,50,Stewed Beans,Borohwa la Maharage,Legumes Pulses Nuts and Seeds,73,145,218
+32,51,Stewed Lentils,Borohawa la dengu,Legumes Pulses Nuts and Seeds,108,205,297
+32,52,Stewed Green Grams,Borohowa la pojo,Legumes Pulses Nuts and Seeds,69,138,206
+33,53,Stewed Black Beans,Borohawa la Maharoywe,Legumes Pulses Nuts and Seeds,126,222,315
+33,54,Stewed Green Peas,Borohawa la chooko,Legumes Pulses Nuts and Seeds,87,169,259
+33,55,Roasted Groundnuts,Njugu,Legumes Pulses Nuts and Seeds,34,70,
+34,56,Round Sesame,Ufuta,Legumes Pulses Nuts and Seeds,48,72,140
+34,57,Squared Sesame,Ufuta,Legumes Pulses Nuts and Seeds,100,,
+38,58,Kales,Sukuma Wiki,Vegetables,70,140,210
+38,59,Mixed Traditional Vegetables,Mboga za Kienyeji,Vegetables,102,204,306
+38,60,Mixed Vegetables(-Carrots Courgette Peas),Mboga (Karoti kojiti na chooko),Vegetables,79,138,207
+39,61,Stewed cabbage,Kaboji,Vegetables,59,117,176
+39,62,Stir - Fried Broccoli Cauliflower and Carrots,Mboga( Brokoli Mkali na Karoti),Vegetables,38,76,144
+39,63,Courgette,Kojiti,Vegetables,79,107,276
+40,64,Cucumber,Tango,Vegetables,24,309,
+40,65,Eggplant,Biringoni,Vegetables,42,,
+40,66,Garlic clove,Kitunguu Saumu,Vegetables,4,,
+41,67,Fresh Tomato,Nyanya,Vegetables,204,,
+41,68,Fresh Tomato - Diced,Nyanya,Vegetables,119,,
+41,69,Fresh Tomato - Stripped,Nyanya,Vegetables,68,,
+41,70,Fresh Tomato - Sliced,Nyanya,Vegetables,96,,
+42,71,Fresh Whole Carrot,Karoti,Vegetables,115,141,235
+42,72,Fresh Carrot - Sliced,Karoti,Vegetables,79,,
+42,73,Fresh Carrot - Stripped,Karoti,Vegetables,90,,
+42,74,Fresh Carrot - Diced,Karoti,Vegetables,122,,
+44,75,Orange - South Africa,Chungwa Ulaya,Fruits,112,141,159
+44,76,Orange - Local,Chungwa la Kenya,Fruits,186,,
+44,77,Tangerine,Chenzo,Fruits,96,124,177
+45,78,Pawpaw - Small,Papai Dogo,Fruits,87,168,306
+45,79,Pawpaw - Big,Papai Kubwa,Fruits,115,228,313
+46,80,Watermelon,Tikitimoji,Fruits,150,324,
+46,81,Mango (Without Seeds and Peels),Embe,Fruits,151,230,237
+47,82,Peach,Fyusiti,Fruits,82,164,246
+47,83,Sweet Banana,Ndizi za Kisukari,Fruits,54,77,130
+47,84,Purple Passionfruit,Karakara,Fruits,9,,
+48,85,Tree Tomato,Nyanya Ulaya,Fruits,63,85,125
+48,86,Granadilla (Sweet Passionfruit),Karakara,Fruits,20,42,50
+49,87,Apple,Tufaho,Fruits,92,134,177
+49,88,Thorn Melon,Tomoko,Fruits,94,156,
+49,89,Pineapple,Nanasi,Fruits,80,160,240
+50,90,Avocado (Small),Parachichi dogo,Fruits,43,89,181
+50,91,Avocado (Big),Parachichi Kubwa,Fruits,135,262,524
+50,92,Freshly squeezed fruit juice,Maji ya matunda,Fruits,540,,
+51,93,Grapes,Forsadi,Fruits,109,181,263
+51,94,Strawberry,Zabibu,Fruits,85,126,253
+51,95,Dates,Tende,Fruits,100,,
+52,96,Pear,Pea,Fruits,154,308,462
+52,97,Kiwi,Kiwi,Fruits,45,93,138
+52,98,Black Berries,Forsadi Nyeusi,Fruits,74,132,190
+54,99,Fresh Milk/Mala,Maziwa/Gururu,Milk and Dairy Products,125ml,250ml,
+54,100,Yoghurt,Gururu Tamu,Milk and Dairy Products,50ml,450ml,500ml
+55,101,Butter,,Milk and Dairy Products,10,,
+58,102,Stewed Liver,Maini,Meats Poultry and Eggs,69,128,188
+58,103,Stewed Offal,Matumbo,Meats Poultry and Eggs,50,100,150
+58,104,Stewed Gizzards,Firigisi,Meats Poultry and Eggs,59,119,193
+59,105,African Sausage,Mtura,Meats Poultry and Eggs,58,116,233
+59,106,Stewed Beef/Goat/Mutton,Nyama,Meats Poultry and Eggs,56,111,167
+59,107,Stewed Chicken,Kuku,Meats Poultry and Eggs,80,159,239
+60,108,Stewed Pork,Nguruwe,Meats Poultry and Eggs,90,170,249
+60,109,Ham - Slice,Nguruwe,Meats Poultry and Eggs,36,,
+60,110,Minced Meat,Nyama Kima,Meats Poultry and Eggs,73,147,220
+61,111,Fried Egg,Yai Korango,Meats Poultry and Eggs,50,100,150
+61,112,Scrambled Egg,Yai Kimo,Meats Poultry and Eggs,89,178,266
+61,113,Boiled Egg,Yai Chemsho,Meats Poultry and Eggs,21,35,56
+63,114_small,Fried Tilapia (small),Somaki,Fish and Sea Foods,53,92,146
+63,114_big,Fried Tilapia (big),Somaki,Fish and Sea Foods,108,149,259
+63,115,Fish Fillet,Somaki Kimo,Fish and Sea Foods,91,183,274
+64,116,Omeno,Dogoa,Fish and Sea Foods,53,105,158
+64,117,Fish Balls,,Fish and Sea Foods,12,,
+66,118,Olive Oil/Corn/Soy Bean Oil,Mafuta Ya kupika,Oils and Fats,5,25,75
+66,119,Vegetable cooking Fat,Mafuta Kupika,Oils and Fats,25,45,90
+68,120,Honey,Asali/Uki,Spreads,8,19,32
+69,121,Margarine,Siagi,Spreads,3,6,9
+69,122,Jam,Siagi ya Matunda,Spreads,4,16,28
+69,123,Peanut Butter,Siagi ya Njugu,Spreads,7,16,34
+71,124,Low Sugar Cookies (Marie),Biskuti,Snacks,24,36,73
+71,125,Low Sugar Tea Biscuits,Biskuti,Snacks,33,49,99
+72,126,High Sugar Cookies and Biscuits (Nuvita),Biskuti,Snacks,24,36,72
+72,127,High Sugar Cookies and Biscuits (Nice),Biskuti,Snacks,32,48,97
+73,128,Cookies,Biskuti,Snacks,34,52,104
+73,129,High Fibre Biscuits (Digestive),Biskuti,Snacks,37,56,113
+74,130,High Fibre Biscuits (Ginger),Biskuti,Snacks,22,43,63
+74,131,Creamy Biscuits,Biskuti,Snacks,49,,
+74,132,Cakes (Black Forest Lemon Cake Slices etc),Keki,Snacks,49,61,150
+75,133,Queen Cake (Rich Queen Cake),Keki,Snacks,57,114,171
+75,134,Queen Cake (Small),Keki,Snacks,52,106,239
+76,135,Muffin,Mofini,Snacks,74,,
+76,136,Chocolate Ball,Chokoleti,Snacks,131,,
+76,137,Ice Cream,Malai,Snacks,,,
+77,138,Pop Corn,Bilisi,Snacks,25,50,100
+77,139,Crisps,Kaukou,Snacks,30,75,150
+77,140,Wafer,Biskutipesi,Snacks,78,,
+78,141,Amigos,Kaukou Nyororo,Snacks,100,,
+78,142,Wow Rings,Kaukou Pete,Snacks,250,,
+78,143,Sugar Cane,Miwa,Snacks,311,,
+79,144,Sweets and Candies,Peremende/Pipi,Snacks,,,
+80,145,Carbonated Cola Drink,Soda,Snacks,228,334,
+82,146,Tea,Chai/Kahawa/Chokoleti,Beverages,83,166,321
+84,147,Githeri,Kiaheri,Composite Dishes,100,200,300
+84,148,Mukimo,Mukimo,Composite Dishes,204,407,611
+84,149,Pilau,Pilau Ghushi,Composite Dishes,81,162,243
+85,150,Rice Carrots and Potatoes,Mchele,Composite Dishes,193,385,579
+85,151,Toasted Ham Bread,Tosti Nyama,Composite Dishes,73,109,146
+85,152,Rice and Beans,Konole,Composite Dishes,286,572,858
+86,153,Kachumbari,Kachumbari,Composite Dishes,41,82,124
+86,154,Pizza(Medium),Pizza Ndogo,Composite Dishes,70,210,420
+86,155,Pizza (Large),Pizza Kubwa,Composite Dishes,90,360,720
+87,156,Pie,Mkate wa Nyama,Composite Dishes,161,,
+87,157,Hot Dog,Skonzi na Soseji,Composite Dishes,204,,
+87,158,Hamburger (Small Restaurant),Skonzi na Nyama/Hamboga,Composite Dishes,197,,
+87,159,Hamburger (Small Local Shops),Skonzi na Nyama/Hamboga,Composite Dishes,202,,
+89,160,Chips - Homecooked/Supermarket,Vibanzi,Fried Foods,60,120,180
+89,161,Chips - Restaurant/Chicken Inn,Vibanzi,Fried Foods,191,,
+89,162,Smokies,Smoki,Fried Foods,45,90,120
+90,163,Hot Dog Sausages,Soseji,Fried Foods,49,98,147
+90,164,Sausages,Soseji,Fried Foods,44,,
+90,165,Choma Sausage,Soseji Choma,Fried Foods,74,,
+91,166,Batter Deep Fried Chicken @ KFC,Kuku wa Kupaka,Fried Foods,99,138,
+91,167,Samosa (Beef and Vegetable),Sambusa,Fried Foods,33/25,51,62
+91,168,Bhajia,Bajia,Fried Foods,126,257,383
+92,169,Colored Deep Fried Potatoes,Viazi Karai,Fried Foods,102,195,363
+92,170,Bacon,Nguruwe,Fried Foods,17,31,48
+92,171,Kebab,Kebabu,Fried Foods,155,,
+94,172,Tomato Sauce,Sosi,Spices and Condiments,20,40,60
+94,173,Tomato Sauce - Pizza Inn Ketchup,Sosi,Spices and Condiments,10,20,
